@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Services",
+    "url": "/services/",
+    "weight": 2
+  },
+  {
+    "name": "Work",
+    "url": "/work/",
+    "weight": 4
+  },
+  {
+    "name": "Contact",
+    "url": "/contact/",
+    "weight": 5
+  }
+]

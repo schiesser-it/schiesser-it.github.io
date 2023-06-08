@@ -1,0 +1,17 @@
+[
+  {
+    "title": "External Access and OAuth",
+    "description": "Run independently of Splunk Web, allowing external users to access your app. It even supports OAuth.",
+    "image": "/images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Custom Company Branding",
+    "description": "Use your company's branding in your apps and bring them to any device, including mobile and tablets.",
+    "image": "/images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Scalability",
+    "description": "Deploy your apps outside of your Splunk instance to comfortably support thousands of users.",
+    "image": "/images/features/noun_3d modeling_1885342.svg"
+  }
+]
