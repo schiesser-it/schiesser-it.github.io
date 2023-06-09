@@ -4,7 +4,7 @@ This is the source code for the Schiesser IT website. Based on gatsby-serif-them
 
 ## Install
 
-requires node v18 or higher
+requires node v16 (doesn't work with higher versions)
 
 ```
 npm install

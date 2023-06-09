@@ -12,27 +12,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Upgrade OpenSSL
-        run: sudo apt-get update && sudo apt-get install -y libssl-dev
-
       - name: Setup Node.js environment 🌐
         uses: actions/setup-node@v3
         with:
-          node-version: 18
-
-      - name: Cache Node.js modules
-        uses: actions/cache@v2
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
+          node-version: 16
 
       - name: Install dependencies 🛠️
         run: npm ci
-
-      - name: Rebuild Node.js with correct OpenSSL version
-        run: npm rebuild
 
       - name: Build website 🏗️
         run: npm run build
