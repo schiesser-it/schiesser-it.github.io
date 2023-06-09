@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-service-js",
+    "path": "/services/maintenance/",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Maintenance"},"fields":{"slug":"/services/maintenance/"},"html":"<p>Our relationship doesn't end once your Splunk app is live:</p>\n<p><strong>Support:</strong> Our dedicated team is always on hand to resolve any issues or queries you might have.</p>\n<p><strong>Regular Updates:</strong> Stay ahead of the curve with regular app updates and improvements.</p>\n<p><strong>Training:</strong> We offer training for your team to help them make the most of your Splunk apps.</p>"}},"pageContext":{"id":"d8e815e5-1547-531d-8bc4-e9e2172fc3f1"}},
+    "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}
