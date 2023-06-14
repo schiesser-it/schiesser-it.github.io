@@ -3,8 +3,8 @@
     "show_call_box": true
   },
   "logo": {
-    "mobile": "/images/logo/logo.png",
-    "desktop": "/images/logo/logo.png",
+    "mobile": "/images/logo/schiesser.svg",
+    "desktop": "/images/logo/schiesser.svg",
     "desktop_height": "36px",
     "alt": "Schiesser IT"
   },
