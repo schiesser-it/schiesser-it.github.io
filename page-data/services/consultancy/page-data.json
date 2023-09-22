@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-service-js",
     "path": "/services/consultancy/",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Consultancy"},"fields":{"slug":"/services/consultancy/"},"html":"<p>We offer consultancy services to guide your data analysis strategy:</p>\n<p><strong>Splunk Deployment Advice:</strong> With our vast experience in deploying Splunk apps across various business environments, we can provide insightful advice to ensure a successful deployment.</p>"}},"pageContext":{"id":"3c59e744-6afb-571b-b99a-c17d5c2e8785"}},
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Consultancy"},"fields":{"slug":"/services/consultancy/"},"html":"<p>We offer consultancy services to guide your data analysis strategy:</p>\n<p><strong>Data Deployment Advice:</strong> With our vast experience in deploying data apps across various business environments, we can provide insightful advice to ensure a successful deployment.</p>"}},"pageContext":{"id":"3c59e744-6afb-571b-b99a-c17d5c2e8785"}},
     "staticQueryHashes": ["1820306268","1911626797","239876865","3041911663","4266893431","748283036","760941739"]}
