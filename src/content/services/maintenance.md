@@ -6,10 +6,10 @@ draft: false
 weight: 3
 ---
 
-Our relationship doesn't end once your Splunk app is live:
+Our relationship doesn't end once your data app is live:
 
 **Support:** Our dedicated team is always on hand to resolve any issues or queries you might have.
 
 **Regular Updates:** Stay ahead of the curve with regular app updates and improvements.
 
-**Training:** We offer training for your team to help them make the most of your Splunk apps.
+**Training:** We offer training for your team to help them make the most of your data apps.

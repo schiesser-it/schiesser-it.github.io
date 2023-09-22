@@ -21,7 +21,7 @@ const Home = props => {
       <Helmet>
         <meta
           name="description"
-          content="Schiesser IT creates advanced Splunk applications to help large enterprises use their data more effectively."
+          content="Schiesser IT creates advanced data applications to help large enterprises use their data more effectively."
         />
       </Helmet>
 
@@ -54,7 +54,7 @@ const Home = props => {
           <div className="container pt-6 pb-6 pt-md-10 pb-md-10">
             <div className="row justify-content-start">
               <div className="col-auto">
-                <h2>Remove the limits of Splunk apps:</h2>
+                <h2>Remove the limits of internal data dashboards:</h2>
               </div>
             </div>
 

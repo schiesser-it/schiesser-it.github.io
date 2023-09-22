@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Schiesser IT',
-    description: 'Building Better Splunk Apps',
+    description: 'Transforming Businesses with AI-Powered Data Solutions',
   },
   plugins: [
     'gatsby-plugin-sass',

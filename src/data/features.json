@@ -1,7 +1,7 @@
 [
   {
     "title": "External Access and OAuth",
-    "description": "Run independently of Splunk Web, allowing external users to access your app. It even supports OAuth.",
+    "description": "Run independently of your Data Warehouse, allowing external users to access your app. It even supports OAuth.",
     "image": "/images/features/noun_branding_1885335.svg"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "title": "Scalability",
-    "description": "Deploy your apps outside of your Splunk instance to comfortably support thousands of users.",
+    "description": "Deploy your apps outside of your Data Warehouse to comfortably support thousands of users.",
     "image": "/images/features/noun_3d modeling_1885342.svg"
   }
 ]
