@@ -13,5 +13,35 @@
     "title": "Scalability",
     "description": "Deploy your apps outside of your Data Warehouse to comfortably support thousands of users.",
     "image": "/images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "AI-Powered Fraud Detection",
+    "description": "Real-time transaction monitoring with machine learning algorithms that detect fraudulent activities with 99.9% accuracy, reducing false positives by 80%.",
+    "image": "/images/features/fraud-detection.svg"
+  },
+  {
+    "title": "Algorithmic Trading & Risk Management",
+    "description": "Advanced AI models for high-frequency trading, portfolio optimization, and real-time risk assessment that outperform traditional strategies.",
+    "image": "/images/features/algorithmic-trading.svg"
+  },
+  {
+    "title": "Regulatory Compliance Automation",
+    "description": "AI-driven compliance monitoring that automatically tracks regulatory changes, performs stress testing, and generates required reports for Basel IV and other frameworks.",
+    "image": "/images/features/compliance-automation.svg"
+  },
+  {
+    "title": "Personalized Customer Experience",
+    "description": "Intelligent chatbots, personalized financial advice, and predictive customer service that increase satisfaction scores and reduce operational costs.",
+    "image": "/images/features/personalized-experience.svg"
+  },
+  {
+    "title": "Credit Scoring & Underwriting",
+    "description": "Next-generation credit assessment using alternative data sources, behavioral analytics, and machine learning to expand access while reducing default rates.",
+    "image": "/images/features/credit-scoring.svg"
+  },
+  {
+    "title": "Market Intelligence & Analytics",
+    "description": "AI-powered market sentiment analysis, economic forecasting, and competitive intelligence that inform strategic decision-making.",
+    "image": "/images/features/market-intelligence.svg"
   }
 ]
