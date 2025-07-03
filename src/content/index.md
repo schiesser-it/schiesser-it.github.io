@@ -1,11 +1,12 @@
 ---
 title: 'Home'
-intro_image: '/images/illustrations/pointing.svg'
+intro_image: '/images/illustrations/ai-finance.svg'
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Transforming Businesses with AI-Powered Data Solutions
+# Revolutionizing Financial Services with Advanced AI Solutions
 
-We create AI-powered applications to help large enterprises use their data more effectively.<br><br>
-Our apps are designed to be scalable, allow external access, and support custom branding.
+We specialize in developing cutting-edge AI use cases that transform how financial institutions operate, analyze risk, and serve customers in 2025.<br><br>
+
+Our AI-powered solutions include fraud detection, algorithmic trading, personalized banking experiences, regulatory compliance automation, and predictive analytics that drive measurable business outcomes.
